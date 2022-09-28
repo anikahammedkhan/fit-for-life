@@ -1,0 +1,14 @@
+.cart-box {
+    position: sticky;
+    top: 80px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
