@@ -1,0 +1,74 @@
+[
+    {
+        "id": "001",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152604/press-ups-at-home-1024x576.jpg",
+        "age": 30,
+        "name": "Standard Push-ups",
+        "time": "20",
+        "details": "It’s an oldie, but a goodie. The push up (or press up – the terms are interchangeable) is a fantastic chest workout. Lie face down flat on the floor, have your hands in line with your shoulders and extend your arms so they’re straight. Then, get up on your toes, keeping a straight line all the way from your heels to your neck. Make sure you don’t flex at the hips or curve your back. This will reduce the effectiveness of the push up and potentially put you at risk of hurting yourself."
+    },
+    {
+        "id": "002",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152015/knee-press-up-1024x576.jpg",
+        "age": 25,
+        "name": "Slightly Easier Push-ups",
+        "time": "30",
+        "details": "Bear with us, push-ups are going to be a consistent theme in this piece, but trust us, it’s worth it. If you’re working out for the first time in a while, or are new to home chest workouts, then it might be that standard push-ups are a little tricky to start off with. If this is the case, then there are ways to make them a little easier before you graduate to a full-on push up."
+    },
+    {
+        "id": "003",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152013/decline-press-up-1024x576.jpg",
+        "age": 25,
+        "name": "Decline Push-ups",
+        "time": "45",
+        "details": "Unsurprisingly, these are the opposite of the incline push-ups described above and are a really effective home chest workout. If you get your feet higher than your hands, then your push-ups are going to be trickier. This is because you can get your chest lower to the ground and really push those pectoralis major and deltoid muscles. We only really advise trying these if you’re looking for a new challenge."
+    },
+    {
+        "id": "004",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152021/plyometric-press-up-1024x576.jpg",
+        "age": 28,
+        "name": "Plyometric Push-ups",
+        "time": "30",
+        "details": "Another really advanced home chest workout, the plyometric push up adds extra intensity to your workout and takes things up a notch. To begin with, get in the standard push up pose and lower yourself to the floor. Then comes the tricky bit. You’ve got to really explode through the next section, pushing yourself up as hard as you can. Try and push yourself with such force that your hands actually leave the floor. If you really want to show off, try clapping your hands during each push up."
+    },
+    {
+        "id": "005",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152030/wide-press-ups-1024x576.jpg",
+        "age": 25,
+        "name": "Wide Push-ups",
+        "time": "45",
+        "details": "This is a fantastic element to incorporate into your home chest workout. Rather than having your hands shoulder width apart, try pushing them a little wider. Doing this will help recruit your tricep muscles as well as your deltoids and pecs."
+    },
+    {
+        "id": "006",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152024/shutterstock_1304869201-1024x576.jpg",
+        "age": 30,
+        "name": "Diamond Push-ups",
+        "time": "25",
+        "details": "Again, another progression from the standard push up. With the diamond push up, instead of having your hands shoulder width apart, try having them underneath your chest, with your thumb and index finger touching. This is a superb addition to your home chest workout routine as it is also great for working your core alongside all the other chest and arm muscles we’re already recruiting."
+    },
+    {
+        "id": "007",
+        "picture": "https://examinedexistence.com/wp-content/uploads/2016/08/2.png",
+        "age": 24,
+        "name": "Shuffle Push-ups",
+        "time": "45",
+        "details": "Yep, we know what you’re thinking: “another push up variant?!” and you’d be right, it is. It’s still a great addition to your home chest workout regime, however. To do this one, you start in a standard push up position, but instead of having both hands level, push one out in front of you and one behind you. Complete a push up and then swap hands and try again. Do at least 10 reps of this so that you’ve done an even number of reps with your hands in the different position."
+    },
+    {
+        "id": "008",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152019/one-leg-press-up-1024x576.jpg",
+        "age": 28,
+        "name": "One-leg Push-ups",
+        "time": "50",
+        "details": "Okay, you’ll need some serious chops to be able to complete this home chest workout. Start in the standard push up pose and the then raise one leg up. Keeping your glutes tight, complete your set of reps (try and get to 10) before swapping legs. Alternatively, you could always swap legs between reps. Just make sure you complete an even number of reps for each leg."
+    },
+    {
+        "id": "009",
+        "picture": "https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/20152027/spider-man-press-ups-1024x576.jpg",
+        "age": 30,
+        "name": "Spider-Man Push-ups",
+        "time": "45",
+        "details": "Finally, this variant of the push-up is a great addition to any home chest workout regime. Begin in a standard push-up pose and bend your elbows so your chest is lower than they are. As you do this, bend one of your knees and bring it up alongside you. Hold this pose for a couple of seconds before returning to the starting position. Then, do the same, but using the other leg. Make sure you do an even number of these in each set you complete to work each side evenly."
+    }
+]
