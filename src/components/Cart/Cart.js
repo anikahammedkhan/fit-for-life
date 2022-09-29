@@ -10,7 +10,6 @@ const Cart = (props) => {
     const handleBreakTime = (props) => {
         setBreaks(props);
     }
-    console.log(breaks);
     return (
         <div className='cart-box'>
             <div className='profile'>
