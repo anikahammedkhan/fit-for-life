@@ -1,18 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Image from './4.jpg';
 import './Cart.css';
 import { ToastContainer, toast } from 'react-toastify';
-
 import 'react-toastify/dist/ReactToastify.css';
+import { addToDb, loadDataFromDb } from '../Utilities/fakeDb';
 
 const Cart = (props) => {
     let { cart } = props;
     const time = cart.map(time => time);
     const total = time.reduce((total, time) => parseInt(total) + parseInt(time), 0);
-    const [breaks, setBreaks] = React.useState(0);
+    const [breaks, setBreaks] = useState(0);
     const handleBreakTime = (props) => {
         setBreaks(props);
+        addToDb(props);
     }
+    React.useEffect(() => {
+        const savedCart = loadDataFromDb();
+        setBreaks(savedCart.breakTime);
+    }, []);
     return (
         <div className='cart-box'>
             <div className='profile'>
@@ -53,7 +58,7 @@ const Cart = (props) => {
             </div>
             <div className='flex justify-between bg-slate-200 p-4 rounded-lg my-3 mx-4'>
                 <h1>Break Time</h1>
-                <p>{breaks} seconds</p>
+                <p>{breaks ? breaks : 0} seconds</p>
             </div>
 
             <div className="btn btn-primary flex align-center mx-3 mb-4" onClick={() => toast("Congartulation! You Have Successfully Completed Your Exercise !!")}>Activity Completed</div>
