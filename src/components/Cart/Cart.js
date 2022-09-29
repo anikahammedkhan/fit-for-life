@@ -1,6 +1,9 @@
 import React from 'react';
 import Image from './4.jpg';
 import './Cart.css';
+import { ToastContainer, toast } from 'react-toastify';
+
+import 'react-toastify/dist/ReactToastify.css';
 
 const Cart = (props) => {
     let { cart } = props;
@@ -53,7 +56,8 @@ const Cart = (props) => {
                 <p>{breaks} seconds</p>
             </div>
 
-            <div className="btn btn-primary flex align-center mx-3 mb-4">Activity Completed</div>
+            <div className="btn btn-primary flex align-center mx-3 mb-4" onClick={() => toast("Congartulation! You Have Successfully Completed Your Exercise !!")}>Activity Completed</div>
+            <ToastContainer position="bottom-right" />
         </div>
     );
 };
