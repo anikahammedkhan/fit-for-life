@@ -35,7 +35,7 @@ const Cart = (props) => {
                     <p>Weight</p>
                 </div>
                 <div>
-                    <p className='font-bold'>6.5</p>
+                    <p className='font-bold'>5.5</p>
                     <p>Hight</p>
                 </div>
                 <div>
